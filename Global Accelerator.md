@@ -1,5 +1,8 @@
 # Global Accelerator
 
+<img width="1536" height="1024" alt="CloudFront vs Global Accelerator infographic" src="https://github.com/user-attachments/assets/699c70c1-fef2-4ab1-8c90-c27be024bd1f" />
+
+
 ***Launch EC2 in Mumbai Region***
 ![243](https://github.com/user-attachments/assets/c94c4b02-0929-4eb5-a63f-1cff283c6875)
 
